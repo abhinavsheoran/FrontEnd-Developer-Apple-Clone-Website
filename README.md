@@ -1,4 +1,4 @@
-# Redmi Project
+# Read Me Project
 
 ## Overview
 
@@ -109,10 +109,5 @@ redmi/
 
 
 How to Run Locally -
-
-Clone this repository:
-
-git clone [https://github.com/your-username/redmi.git](https://github.com/ashutosh53/Frontend-Engineer---Apple-Website-Team-/edit/main/README.md)
-
 
 Open index.html in your preferred web browser.
